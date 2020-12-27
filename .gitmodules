@@ -13,3 +13,6 @@
 [submodule "nice-nano-kicad"]
 	path = nice-nano-kicad
 	url = https://github.com/bstiq/nice-nano-kicad
+[submodule "Keebio-Parts.pretty"]
+	path = Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty
