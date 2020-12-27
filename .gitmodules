@@ -10,3 +10,6 @@
 [submodule "SparkFun-KiCad-Libraries"]
 	path = SparkFun-KiCad-Libraries
 	url = https://github.com/sparkfun/SparkFun-KiCad-Libraries
+[submodule "nice-nano-kicad"]
+	path = nice-nano-kicad
+	url = https://github.com/bstiq/nice-nano-kicad
